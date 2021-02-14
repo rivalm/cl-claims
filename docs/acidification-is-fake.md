@@ -23,12 +23,12 @@ This article attempts to deny that a significant temperature increase has occurr
 ### Claim 4: Elevated CO<sub>2</sub> Levels Have a Positive effect on _Bothriochloa Ischaemum_, a Species of Grass
 _Link: http://www.co2science.org/articles/V20/may/a9.php_
 
-This article summarizes the findings of a peer reviewed article that examines the growth of Bothriochloa ischaemum, a species of grass at different concentrations of CO<sub>2</sub> discovering that biomass increases with higher amounts of CO<sub>2</sub>. This article is convincing due to the usage of a peer reviewed article as evidence, and its thorough explanation of why this may apply to global plants in addition to this grass species.
+This article summarizes the findings of a peer reviewed article that examines the growth of Bothriochloa ischaemum, a species of grass at different concentrations of CO<sub>2</sub> discovering that biomass increases with higher amounts of CO<sub>2</sub> (Xiao, Liu and Xue, 2016). This article is convincing due to the usage of a peer reviewed article as evidence, and its thorough explanation of why this may apply to global plants in addition to this grass species.
 
 ### Claim 5: The Temperature Observed Today is Not Extraordinary, According to a Swedish Fjord
 _Link: http://www.co2science.org/articles/V23/jan/a2.php_
 
-This article attempts to demonstrate that a 2500 year temperature record obtained from a Swedish Fjord shows that the temperature and warming observed in the modern anthropogenic era is not extraordinary and has been observed several times throughout the past. This article is convincing due to the graph it provides, obtained from a scientific paper, and also due to its exploitation of the general uncertainty surrounding past warmings and their causes. 
+This article attempts to demonstrate that a 2500 year temperature record obtained from a Swedish Fjord shows that the temperature and warming observed in the modern anthropogenic era is not extraordinary and has been observed several times throughout the past (Polovodova Asteman, Filipsson and Nordberg, 2018). This article is convincing due to the graph it provides, obtained from a scientific paper, and also due to its exploitation of the general uncertainty surrounding past warmings and their causes. 
 
 ## Top Claim Analysis: The "myth" of Ocean Acidification
 
@@ -49,18 +49,23 @@ The most impactful articles tend to have several similarities which help with th
 ## References
 
 Albright, R. and Langdon, C., 2011. Ocean acidification impacts multiple early life history processes of the Caribbean coral Porites astreoides. Global Change Biology, 17(7), pp.2478–2487.
- 
+
 Fabry, V.J., Seibel, B.A., Feely, R.A. and Orr, J.C., 2008. Impacts of ocean acidification on marine fauna and ecosystem processes. ICES Journal of Marine Science, 65(3), pp.414–432.
- 
 Fitzer, S.C., Phoenix, V.R., Cusack, M. and Kamenos, N.A., 2014. Ocean acidification impacts mussel control on biomineralisation. Scientific Reports, 4(1), p.6218.
- 
+
 Hönisch, B., Ridgwell, A., Schmidt, D.N., Thomas, E., Gibbs, S.J., Sluijs, A., Zeebe, R., Kump, L., Martindale, R.C., Greene, S.E., Kiessling, W., Ries, J., Zachos, J.C., Royer, D.L., Barker, S., Marchitto, T.M., Moyer, R., Pelejero, C., Ziveri, P., Foster, G.L. and Williams, B., 2012. The Geological Record of Ocean Acidification. Science, 335(6072), pp.1058–1063.
- 
-Kerrison, P., Hall-Spencer, J., Suggett, D., Hepburn, L. and Steinke, M., 2011. Assessment of pH variability at a coastal CO<sub>2</sub> vent for ocean acidification studies. Estuarine and Coastal Marine Science, 94, pp.129–137.
- 
+
+Kerrison, P., Hall-Spencer, J., Suggett, D., Hepburn, L. and Steinke, M., 2011. Assessment of pH variability at a coastal CO2 vent for ocean acidification studies. Estuarine and Coastal Marine Science, 94, pp.129–137.
+
 Kroeker, K.J., Kordas, R.L., Crim, R., Hendriks, I.E., Ramajo, L., Singh, G.S., Duarte, C.M. and Gattuso, J.-P., 2013. Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming. Global Change Biology, 19(6), pp.1884–1896.
- 
+
 Logan, C.A., 2010. A Review of Ocean Acidification and America’s Response. BioScience, 60(10), pp.819–828.
- 
+
+Polovodova Asteman, I., Filipsson, H. and Nordberg, K., 2018. Tracing winter temperatures over the last two millennia using a NE Atlantic coastal record. Climate of the Past, 14, pp.1097–1118.
+
 Turley, C. and Gattuso, J.-P., 2012. Future biological and ecosystem impacts of ocean acidification and their socioeconomic-policy implications. Current Opinion in Environmental Sustainability, 4(3), pp.278–286.
+
+Xiao, L., Liu, G. and Xue, S., 2016. Elevated CO2 Concentration and Drought Stress Exert Opposite Effects on Plant Biomass, Nitrogen, and Phosphorus Allocation in Bothriochloa ischaemum. Journal of Plant Growth Regulation, 35(4), pp.1088–1097.
+
+
  
