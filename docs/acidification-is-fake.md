@@ -1,7 +1,7 @@
 
 # Climate Claims: Finding the Facts in a Post Truth World
 
-Max Rival
+Written By Max Rival
 
 ## Part 1: List of Articles
 
@@ -20,7 +20,7 @@ _Link: https://wattsupwiththat.com/2021/01/16/the-ocean-warming-enigma/_
 
 This article attempts to deny that a significant temperature increase has occurred in the ocean since 1958 due to anthropogenic greenhouse gas emissions. This article is convincing because it uses statements which seem to contradict the scientific consensus, building uncertainty and distrust from the reader to this community.
 
-### Claim 4: Elevated CO<sub>2</sub> Levels Have a Positive effect on Bothriochloa Iscaemum, a Species of Grass
+### Claim 4: Elevated CO<sub>2</sub> Levels Have a Positive effect on _Bothriochloa Ischaemum_, a Species of Grass
 _Link: http://www.co2science.org/articles/V20/may/a9.php_
 
 This article summarizes the findings of a peer reviewed article that examines the growth of Bothriochloa ischaemum, a species of grass at different concentrations of CO<sub>2</sub> discovering that biomass increases with higher amounts of CO<sub>2</sub>. This article is convincing due to the usage of a peer reviewed article as evidence, and its thorough explanation of why this may apply to global plants in addition to this grass species.
