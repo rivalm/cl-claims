@@ -1,7 +1,7 @@
 
 # Climate Claims: Finding the Facts in a Post Truth World
 
-
+Max Rival
 
 ## Part 1: List of Articles
 
